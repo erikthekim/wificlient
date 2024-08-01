@@ -1,0 +1,16 @@
+current directory: /home/erik/Projects/wificlient/.gems/ruby/3.1.0/gems/json-2.7.2/ext/json
+/nix/store/98sa81zbm46czzhipl3vm6lcq9dg999s-ruby-3.1.6/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/erik/Projects/wificlient/.gems/ruby/3.1.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240731-1240466-jtxn1j sitelibdir\=./.gem.20240731-1240466-jtxn1j clean
+
+current directory: /home/erik/Projects/wificlient/.gems/ruby/3.1.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240731-1240466-jtxn1j sitelibdir\=./.gem.20240731-1240466-jtxn1j
+make: Nothing to be done for 'all'.
+
+current directory: /home/erik/Projects/wificlient/.gems/ruby/3.1.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240731-1240466-jtxn1j sitelibdir\=./.gem.20240731-1240466-jtxn1j install
+
+current directory: /home/erik/Projects/wificlient/.gems/ruby/3.1.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240731-1240466-jtxn1j sitelibdir\=./.gem.20240731-1240466-jtxn1j clean

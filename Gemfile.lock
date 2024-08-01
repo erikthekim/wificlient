@@ -1,0 +1,33 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    bigdecimal (3.1.8)
+    csv (3.3.0)
+    date (3.3.4)
+    fileutils (1.7.2)
+    httparty (0.22.0)
+      csv
+      mini_mime (>= 1.0.0)
+      multi_xml (>= 0.5.2)
+    ipaddr (1.2.6)
+    json (2.7.2)
+    logger (1.6.0)
+    mini_mime (1.1.5)
+    multi_xml (0.7.1)
+      bigdecimal (~> 3.1)
+    set (1.1.0)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  date
+  fileutils
+  httparty
+  ipaddr
+  json
+  logger
+  set
+
+BUNDLED WITH
+   2.4.19
