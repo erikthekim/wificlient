@@ -1,0 +1,14 @@
+#!/bin/sh /etc/rc.common
+
+START=99
+APP=Wificlient
+EXEC="ruby"
+EXEC_ARGS="-I /usr/bin /usr/bin/wifi_state_machine.rb"
+
+start() {
+	start-stop-daemon -S -x $EXEC  -m -b -- $EXEC_ARGS
+}
+
+stop() {
+	start-stop-daemon -K -s TERM
+}
